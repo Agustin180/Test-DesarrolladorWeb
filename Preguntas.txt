@@ -1,0 +1,5 @@
+Differences between display: none; and visibility: hidden;
+
+Formas de comentar en html,css y js.
+
+Que son pseudo elementos y clases CSS
